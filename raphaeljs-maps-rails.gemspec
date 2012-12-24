@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Raphaeljs::Maps::Rails::VERSION
   gem.authors       = ["Jiri Kolarik"]
   gem.email         = ["jiri.kolarik@imin.cz"]
-  gem.description   = %q{TODO: Maps for Raphael JavaScript library}
-  gem.summary       = %q{TODO: JS maps}
+  gem.description   = %q{Maps for Raphael JavaScript library}
+  gem.summary       = %q{JS maps}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
